@@ -1,4 +1,4 @@
-alert("Simon will signal a sequence of patterns, adding one pattern for each level. Try to complete as much patterns as you can as the level increases. Make sure you click the ENTIRE pattern. Ex: Level 1 signals - click red. Level 2 signals green - click red THEN green.")
+alert("Simon will signal a sequence of patterns, adding one pattern for each level. Try to complete as much patterns as you can as the level increases. Make sure you click the ENTIRE pattern. Ex: Level 1 signals - click red. Level 2 signals green - click red THEN green.");
 
 let buttonColors = ["red", "blue", "green", "yellow"];
 let gamePattern = [];
